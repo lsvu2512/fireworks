@@ -7,7 +7,7 @@ const colors = [
 	"#ff4c4c",
 	"#ffcc00"
 ];
-const letters = "Ngoc"; // Define the message you want
+const letters = "Ning Ngoc"; // Define the message you want
 let letterIndex = 0; // Keep track of the current index
 
 // Get the next letter from the message
